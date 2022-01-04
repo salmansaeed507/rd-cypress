@@ -1,0 +1,23 @@
+{
+  "name": "rd-cypress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cypress:run": "cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/salmansaeed507/rd-cypress.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/salmansaeed507/rd-cypress/issues"
+  },
+  "homepage": "https://github.com/salmansaeed507/rd-cypress#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "cypress": "^9.2.0"
+  }
+}
